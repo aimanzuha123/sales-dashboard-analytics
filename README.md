@@ -1,2 +1,2 @@
-# sales-dashboard-project
-Executive Sales Dashboard built with Python | KPI Analysis, Revenue Trends, Regional Performance | Pandas, Matplotlib | Portfolio Project.
+# sales-dashboard-analytics
+Sales dashboard and customer segmentation analytics project using Python
